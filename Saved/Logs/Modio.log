@@ -1,18 +1,18 @@
-[12:17:37.7659468:765ms][Info][Core] Initializing mod.io services
-[12:17:37.7665523:766ms][Info][File] Initialized File Service
-[12:17:37.8992633:899ms][Trace][File] Begin read of 50 bytes from C:\Users\john lee\AppData\Local\mod.io\3791\johnlee\..\..\globalsettings.json
-[12:17:37.8993902:899ms][Trace][File] Finish read from C:\Users\john lee\AppData\Local\mod.io\3791\johnlee\..\..\globalsettings.json
-[12:17:37.8994833:899ms][Info][File] Overriding RootLocalStoragePath to C:\Users\Public\mod.io\
-[12:17:37.9031927:903ms][Info][Http] Initialized Http Service
-[12:17:37.9032386:903ms][Trace][User] Loading user data
-[12:17:38.0315380:31ms][Trace][File] Begin read of 109 bytes from C:\Users\john lee\AppData\Local\mod.io\3791\johnlee\user.json
-[12:17:38.0316624:31ms][Trace][File] Finish read from C:\Users\john lee\AppData\Local\mod.io\3791\johnlee\user.json
-[12:17:38.0317431:31ms][Trace][User] User Data file present but not valid. Initializing to default state
-[12:17:38.0317581:31ms][Info][User] Initialized User Data service
-[12:17:38.0317783:31ms][Info][File] Overriding RootLocalStoragePath to S:\SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks\mod.io\
-[12:17:38.0319966:31ms][Trace][ModManagement] Loading mod collection from storage
-[12:17:38.0324617:32ms][Trace][ModManagement] Mod collection loaded
-[12:17:38.0325211:32ms][Trace][File] Begin delete of S:\SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks\mod.io\3791\temp\johnlee\
-[12:17:38.0535257:53ms][Info][Core] mod.io service initialization complete
-[13:02:11.1841650:184ms][Info][Core] Mod Management has been disabled.
-[13:02:11.1842332:184ms][Info][Core] Mod Management has been disabled.
+[13:04:10.8472286:847ms][Info][Core] Initializing mod.io services
+[13:04:10.8477622:847ms][Info][File] Initialized File Service
+[13:04:11.0342396:34ms][Trace][File] Begin read of 50 bytes from C:\Users\john lee\AppData\Local\mod.io\3791\johnlee\..\..\globalsettings.json
+[13:04:11.3358010:335ms][Trace][File] Finish read from C:\Users\john lee\AppData\Local\mod.io\3791\johnlee\..\..\globalsettings.json
+[13:04:11.3358990:335ms][Info][File] Overriding RootLocalStoragePath to C:\Users\Public\mod.io\
+[13:04:11.3383831:338ms][Info][Http] Initialized Http Service
+[13:04:11.3384030:338ms][Trace][User] Loading user data
+[13:04:11.3424142:342ms][Trace][File] Begin read of 109 bytes from C:\Users\john lee\AppData\Local\mod.io\3791\johnlee\user.json
+[13:04:11.3425260:342ms][Trace][File] Finish read from C:\Users\john lee\AppData\Local\mod.io\3791\johnlee\user.json
+[13:04:11.3425959:342ms][Trace][User] User Data file present but not valid. Initializing to default state
+[13:04:11.3426106:342ms][Info][User] Initialized User Data service
+[13:04:11.3426307:342ms][Info][File] Overriding RootLocalStoragePath to S:\SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks\mod.io\
+[13:04:11.3428558:342ms][Trace][ModManagement] Loading mod collection from storage
+[13:04:11.3432184:343ms][Trace][ModManagement] Mod collection loaded
+[13:04:11.3432616:343ms][Trace][File] Begin delete of S:\SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks\mod.io\3791\temp\johnlee\
+[13:04:11.3458926:345ms][Info][Core] mod.io service initialization complete
+[14:29:02.3953432:395ms][Info][Core] Mod Management has been disabled.
+[14:29:02.4732751:473ms][Info][Core] Mod Management has been disabled.
